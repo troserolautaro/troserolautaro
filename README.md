@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troserolautaro
 - 👀 I’m interested in Java, and Mysql
-- 🌱 I’m currently learning Java and then Spring
+- 🌱 I’m currently learning Java and Spring
 - 💞️ I’m looking to collaborate on develop games
 - 📫 How to reach me trosero.lautaro@gmail.com
 
